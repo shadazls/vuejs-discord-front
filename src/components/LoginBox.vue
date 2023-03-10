@@ -52,8 +52,8 @@
     padding: 0;
 }
 
-.container{
-    height: 100%;
+.container {
+    height: 100vh;
 }
 
 #mainBox {
